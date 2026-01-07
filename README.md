@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 Iago Durag
+# 👨‍💻 Iago
 
 ### Engenheiro e Desenvolvedor de Software
 
