@@ -98,10 +98,6 @@ expertise = {
 
 💼 Aberto para oportunidades de trabalho e colaborações!
 
-📧 **Email**: [seu.email@exemplo.com](mailto:SEU_EMAIL)  
-💼 **LinkedIn**: [Seu Nome](SEU_LINKEDIN)  
-📱 **WhatsApp**: [Enviar mensagem](SEU_WHATSAPP)
-
 </div>
 
 ---
