@@ -70,7 +70,7 @@ expertise = {
 
 <div align="center">
 
-[![Orange Scout](https://img.shields.io/badge/🎮_Orange_Scout-Sistema_de_Análise_de_Jogos-orange?style=for-the-badge)](LINK_DO_REPO)
+[![Orange Scout](https://img.shields.io/badge/🎮_Orange_Scout-Sistema_de_Análise_de_Jogos de Basquete-orange?style=for-the-badge)](LINK_DO_REPO)
 [![Saciar](https://img.shields.io/badge/🍽️_Saciar-Sistema_de_Gerenciamento-blue?style=for-the-badge)](LINK_DO_REPO)
 [![Sistema Valdeci](https://img.shields.io/badge/💼_Valdeci-Gestão_de_Clientes_e_Dívidas-green?style=for-the-badge)](LINK_DO_REPO)
 
