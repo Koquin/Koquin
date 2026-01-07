@@ -1,16 +1,115 @@
-## Hi there 👋
+<div align="center">
+  
+# 👨‍💻 Iago Durag
 
-<!--
-**Koquin/Koquin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Engenheiro e Desenvolvedor de Software
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iagojrdc/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iagojrdc)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iagojrdc@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🚀 Sobre Mim
+
+Sou um engenheiro e desenvolvedor de software apaixonado por criar soluções eficientes e escaláveis. Com experiência em desenvolvimento mobile, backend e design de interfaces, busco sempre entregar produtos de alta qualidade que façam a diferença.
+
+---
+
+## 💻 Tecnologias & Ferramentas
+
+### 🎯 Principais
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
+
+### 🗄️ Banco de Dados
+
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+### 🛠️ Outras Tecnologias
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical&hide_border=true&background=0D1117)
+
+</div>
+
+---
+
+## 🎯 Áreas de Expertise
+
+```python
+expertise = {
+    "Mobile": ["Flutter", "Dart", "UI/UX Design"],
+    "Backend": ["Python", "FastAPI", "REST APIs"],
+    "Database": ["MongoDB", "PostgreSQL"],
+    "Other": ["Java", "Git", "Figma"],
+    "Architecture": ["Clean Architecture", "Design Patterns", "Microservices"]
+}
+```
+
+---
+
+## 🌟 Projetos em Destaque
+
+<div align="center">
+
+[![Orange Scout](https://img.shields.io/badge/🎮_Orange_Scout-Sistema_de_Análise_de_Jogos-orange?style=for-the-badge)](LINK_DO_REPO)
+[![Saciar](https://img.shields.io/badge/🍽️_Saciar-Sistema_de_Gerenciamento-blue?style=for-the-badge)](LINK_DO_REPO)
+[![Sistema Valdeci](https://img.shields.io/badge/💼_Valdeci-Gestão_de_Clientes_e_Dívidas-green?style=for-the-badge)](LINK_DO_REPO)
+
+</div>
+
+---
+
+## 📫 Entre em Contato
+
+<div align="center">
+
+💼 Aberto para oportunidades de trabalho e colaborações!
+
+📧 **Email**: [seu.email@exemplo.com](mailto:SEU_EMAIL)  
+💼 **LinkedIn**: [Seu Nome](SEU_LINKEDIN)  
+📱 **WhatsApp**: [Enviar mensagem](SEU_WHATSAPP)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ⚡ "Código limpo não é escrito seguindo regras. Você não se torna um artesão de software aprendendo uma lista de heurísticas. Profissionalismo e artesanato vêm de valores que dirigem disciplinas." - Robert C. Martin
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SEU_USERNAME.SEU_USERNAME)
+
+</div>
