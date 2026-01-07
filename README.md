@@ -52,20 +52,6 @@ Sou um engenheiro e desenvolvedor de software apaixonado por criar soluções ef
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical&hide_border=true&background=0D1117)
-
-</div>
-
----
-
 ## 🎯 Áreas de Expertise
 
 ```python
