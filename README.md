@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um engenheiro e desenvolvedor de software apaixonado por criar soluções eficientes e escaláveis. Com experiência em desenvolvimento mobile, backend e design de interfaces, busco sempre entregar produtos de alta qualidade que façam a diferença.
+Sou um desenvolvedor de software apaixonado por criar soluções eficientes e escaláveis. Com experiência em desenvolvimento mobile, backend e design de interfaces, busco sempre entregar produtos de alta qualidade que façam a diferença.
 
 ---
 
