@@ -71,7 +71,7 @@ expertise = {
 <div align="center">
 
 [![Saciar](https://img.shields.io/badge/Saciar-Sistema_de_Gerenciamento_e_App_de_Auto_Atendimento-blue?style=for-the-badge)](https://github.com/Koquin/Saciar-App)
-[![Bezerra ranch](https://img.shields.io/badge/Sistema_de_gerenciamento_Bezerra_Ranch-red?style=for-the-badge)](https://github.com/Koquin/bezerra_ranch_mobile)
+[![Bezerra ranch](https://img.shields.io/badge/Bezerra_Ranch-Sistema_de_gerenciamento_Bezerra_Ranch-red?style=for-the-badge)](https://github.com/Koquin/bezerra_ranch_mobile)
 [![Sistema Valdeci](https://img.shields.io/badge/Valdeci-Gestão_de_Clientes_e_Dívidas-green?style=for-the-badge)](https://github.com/Koquin/Valdeci-APP)
 
 </div>
