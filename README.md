@@ -70,17 +70,9 @@ expertise = {
 
 <div align="center">
 
-[![Orange Scout](https://img.shields.io/badge/🏀_Orange_Scout-Aplicativo_para_Scouting_de_Basquete-orange?style=for-the-badge)](https://github.com/Koquin/Orange-Scout)
-[![Saciar](https://img.shields.io/badge/🍽️_Saciar-Sistema_de_Gerenciamento_e_App_de_Auto_Atendimento-blue?style=for-the-badge)](https://github.com/Koquin/Saciar-App)
-[![Sistema Valdeci](https://img.shields.io/badge/💼_Valdeci-Gestão_de_Clientes_e_Dívidas-green?style=for-the-badge)](https://github.com/Koquin/Valdeci-APP)
-
-</div>
-
----
-
-<div align="center">
-
-💼 Aberto para oportunidades de trabalho e colaborações!
+[![Saciar](https://img.shields.io/badge/Saciar-Sistema_de_Gerenciamento_e_App_de_Auto_Atendimento-blue?style=for-the-badge)](https://github.com/Koquin/Saciar-App)
+[![Bezerra ranch](https://img.shields.io/badge/Sistema_de_gerenciamento_Bezerra_Ranch?style=for-the-badge)](https://github.com/Koquin/bezerra_ranch_mobile)
+[![Sistema Valdeci](https://img.shields.io/badge/Valdeci-Gestão_de_Clientes_e_Dívidas-green?style=for-the-badge)](https://github.com/Koquin/Valdeci-APP)
 
 </div>
 
